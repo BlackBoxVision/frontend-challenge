@@ -76,7 +76,7 @@ This needs to ship. You should upload the project to a public link (we recommend
 
 In case you need a hand in getting your site to go live, we recommend you read the [Vercel Docs](https://vercel.com/docs/concepts/deployments/overview) to help you out.
 
-Once your code is ready send the public link and repository link via email to whoever sent it to you from Aerolab, or you can apply at https://aerolab.co/jobs if you got here some other way.
+Once your code is ready send the public link and repository link via email to whoever sent it to you from BlackBox Vision, or you can apply at [jobs@blackbox-vision.tech](mailto:jobs@blackbox-vision.tech) if you got here some other way.
 
 ### If you choose Mobile
 In this case it's not necessary deploy anything. Only remember to share a `.env` file if you use it.
