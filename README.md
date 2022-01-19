@@ -2,7 +2,7 @@
 
 # BlackBox Vision Frontend Challenge ⚛️
 
-QuizBox Vision is a question and answer game, like many others. However in this game, much more is put into play! Well, not really, but it was good for the summary.
+QuizBox Vision is a question and answer game, like many others. There's much more at stake! Well, not really, but maybe it's good enough to hook you up.
 
 The challenge is to build a web or mobile application, according to it convenient.
 It depends on you define the solution and create the components required.
@@ -11,7 +11,7 @@ This is a game, so we expect your end-product to be both visually attractive and
 
 ## Table of Contents 🔎
 
-- [Functional definition](#functional-definition)
+- [Functional definitions](#functional-definitions)
 - [Technical definitions](#technical-definitions)
 - [Design](#design)
 - [Acceptance criteria](#acceptance-criteria)
@@ -19,17 +19,17 @@ This is a game, so we expect your end-product to be both visually attractive and
 - [Deploy](#deploy)
 - [BlackBox Vision jobs](#bbv-careers-opportunities)
 
-## Functional Definition 📝
+## Functional Definitions 📝
 
-The game consists of 10 questions which so what can be true / false or multiple choice.
+The game consists of 10 single (true/false) or multiple choice questions.
 
 For each question, it is necessary to show the following fields:
 
-- Ask
+- The question itself
 - Category
 - Difficulty
 - Possible answers
-- When selecting the answer, it samples if it was correct or not. It is not necessary to show what the belt response was.
+- When selecting the answer, it shows if it was correct or not. It is not necessary to show which was the correct answer.
 
 At the end of the game, the obtained score is displayed. It is calculated as follows:
 
@@ -39,7 +39,7 @@ At the end of the game, the obtained score is displayed. It is calculated as fol
 
 ## Technical Definitions 💻
 
-- All the data necessary for the game, are in the following API
+- All necessary data for the game, are in the following API
 - The game can be played in [React](https://reactjs.org/) web or [React Native](https://reactnative.dev/).
 - Each question must be presented on a separate screen in the application.
 - Use [Typescript](https://www.typescriptlang.org/) (with data types)
